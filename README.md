@@ -61,4 +61,5 @@ between the items purchased by the current user and other users.
 > recommendBasedOnUsers "C"
 "earphone"
 ```
-## Note This is a university (GUC) course project. Course name is (CSEN 403 : Concepts of Programming Languages). For a detailed description of the project and its requirements, please have a look at the [description](description) folder.
+## Note
+This is a university (GUC) course project. Course name is (CSEN 403 : Concepts of Programming Languages). For a detailed description of the project and its requirements, please have a look at the [description](description) folder.
