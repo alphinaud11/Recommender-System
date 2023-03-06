@@ -1,4 +1,4 @@
-# Recommender System
+# Recommender Systema
 A system that can be used to build user profiles and accordingly recommend items to buy/watch/read that matches their users’ interests<br/>
 * Recommend an item to the user based on their previous purchases if the current cart is empty<br/>
 * If there are items already added to the users cart, recommend an item to the user based on their previous purchases and the current items in the cart<br/>
